@@ -1,4 +1,4 @@
-
+AWS ECS ELK, grafana, promethius, glitchtip deployment on ECS via Fargate and EC2 exposed via ALB
 
 Stage 1. Building Docker Images 
 
