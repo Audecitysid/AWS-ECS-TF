@@ -111,7 +111,7 @@ variable "vpc_id" {
 }
 
 variable "subnets" {
-  default = ["subnet-02c1ec5a5228083ce", "subnet-038d7e2bf6ebb2494"]
+  default = ["subnet-02c1ec5a5228083ce", "subnet-038d7e2bf6ebb2494"]   # change these to your subnet ids
 }
 
 Step 4. go to KAN-67\aws-es-devops\terraform\dev\ecs-cluster
